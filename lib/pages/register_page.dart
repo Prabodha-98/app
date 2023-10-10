@@ -98,7 +98,7 @@ class RegisterPage extends StatelessWidget {
             const SizedBox(height: 20),
             MyTextField(
               controller: passwordController,
-              hintText: "Age",
+              hintText: "Child Age",
               obscureText: true,
             ),
   const SizedBox(height: 20),

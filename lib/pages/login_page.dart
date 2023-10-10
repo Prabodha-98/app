@@ -11,7 +11,7 @@ class LoginPage extends StatelessWidget {
 
   // Sign user in method
   void signUserIn() {
-    // Implement your sign-in logic here
+    
   }
 
 // function to navigate to the RegisterPage
